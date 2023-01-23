@@ -1,0 +1,47 @@
+DDG-151 Nathan James
+--------------------
+
+Features:
+-detailed exterior
+-detailed interior
+-openable doors
+-custom collision
+-custom LOD
+
+
+Original Model:
+Eagle Dynamics - DCS World
+Deltasim
+
+
+Converted and edited by: SkylineGTRFreak
+
+Please mention me and my YouTube channel ( https://www.youtube.com/user/SkylineGTRR34Freak ) if you're making a video of this.
+
+-----------------------------------------------------------------------------
+Before you use this, make sure to use the CWeaponInfoBlob Limit Adjuster by alexguirre to prevent the game from crashing during loading:
+https://www.gta5-mods.com/tools/cweaponinfoblob-limit-adjuster
+
+
+Instructions [Add-On]:
+
+1. Place the "ddg151" folder into [Gamefolder]\update\X64\dlcpacks\
+
+2. With OpenIV, extract [Game folder]\update\update.rpf\common\data\dlclist.xml and edit this with Notepad++. Add the following entry:
+		<Item>dlcpacks:\ddg151\</Item>
+
+3. Now you are done, you will need a trainer with "spawn by name" function (Enhanced Native Trainer for example) to spawn the vehicle type in:
+
+"james"
+
+
+This vehicle has tuning parts.
+
+Front bumper tuning option will change the ship united to DDG-157 Hayward or DDG-162 Shackleton (both from the TV Series The Last Ship as well)
+
+
+
+If you're game crashes on startup, download a custom gameconfig.xml for your update.rpf. Example: https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
